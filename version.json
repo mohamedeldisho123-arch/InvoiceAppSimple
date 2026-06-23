@@ -1,6 +1,6 @@
 {
   "latest_version": "1.0.1",
   "version_code": 2,
-  "update_url": "https://release-assets.githubusercontent.com/github-production-release-asset/1278264504/3191486f-f1fa-4946-a7f2-18259d78640c?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-06-23T17%3A56%3A28Z&rscd=attachment%3B+filename%3Dapp-release.apk&rsct=application%2Fvnd.android.package-archive&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-06-23T16%3A56%3A18Z&ske=2026-06-23T17%3A56%3A28Z&sks=b&skv=2018-11-09&sig=WE3T0ybEAv19CrEF4EltBeOpy2ui%2Fj50fxHuBWG6J2Q%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MjIzNjIyNywibmJmIjoxNzgyMjM0NDI3LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.5DJAkgFFXck4wAKubiMW6ySM2280LokNp13dPwfq6Bo&response-content-disposition=attachment%3B%20filename%3Dapp-release.apk&response-content-type=application%2Fvnd.android.package-archive",
+  "update_url": "https://github.com/mohamedeldisho123-arch/InvoiceAppSimple/releases/download/v1.0.1/app-release.apk",
   "changelog": "إصلاح مشاكل وتحسين الأداء"
 }
