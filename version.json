@@ -1,9 +1,11 @@
 {
-  "latest_version": "1.1.5",
-  "version_code": 16,
-  "update_url": "https://github.com/mohamedeldisho123-arch/InvoiceAppSimple/releases/download/v1.1.6/app-release.apk",
-  "changelog": "📢 تحديث جديد لتطبيق سهل فاتورة متوفر الآن! ✨
-يتضمن تحسينات في الأداء، وإصلاحات للمشكلات، وتطويرات جديدة لتجربة استخدام أفضل.
-قبل التحديث، يُفضل إنشاء نسخة احتياطية سحابية لضمان حفظ بياناتك. ☁️
-شكرًا لثقتكم، ونتمنى لكم تجربة أفضل مع الإصدار الجديد. 💚"
+  "latest_version": "1.1.8",
+  "version_code": 19,
+  "update_url": "https://github.com/mohamedeldisho123-arch/InvoiceAppSimple/releases/download/v1.1.8/app-release.apk",
+  "changelog": "🔔 تحديث جديد
+تم تطوير شاشة فاتورة المشتريات.
+تم إصلاح مشاكل شاشة العملاء وكشف الحساب.
+تم تحسين العمليات الحسابية في شاشة المبيعات.
+تم تطوير ميزة النسخ الاحتياطي على Google Drive لتحسين الأداء والاعتمادية.
+⚠️ هام: قبل تثبيت التحديث، يُرجى إنشاء نسخة احتياطية من بياناتك لضمان الحفاظ عليها."
 }
